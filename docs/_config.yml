@@ -1,4 +1,8 @@
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: AI Summer Camp for Teens
 description: AI Summer Camp dedicated to educating middle and high school students on AI.
 baseurl: ""
 url: "https://www.aicampcenter.org"
+show_downloads: false
