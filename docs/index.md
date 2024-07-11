@@ -11,7 +11,7 @@ title: Home
 
 <section id="intro">
   <h2>About</h2>
-  <img src="{{ '/assets/images/banner.jpeg' | relative_url }}" alt="Banner" class="banner">
+  <img src="{{ '{{ site.url }}{{ site.baseurl }}/assets/images/banner.jpeg' | relative_url }}" alt="Banner" class="banner">
   <p>Welcome to AI Summer Camps for Teens!</p>
   <p>Our camps are dedicated to educating middle and high school students about AI, helping them build the capability to develop and use AI for good. All profits from the camp will be donated to <b>charity organizations that help reduce adolescents' addictions and improve teens' mental health.</b> The camp is sponsored by the Stanford AI Club, MIT AI Club, and Smart Harmony.</p>
   <p>All the camps will be online through Zoom.</p>
