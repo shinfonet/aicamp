@@ -71,7 +71,7 @@ title: Home
   <li>Professor at North Carolina State University</li>
 </ul>
   <h3>AI Club at Stanford University and MIT</h3>
-  <h3>Invited Speakers</h3>
+  <h3>Distinguished Speakers</h3>
   <ul>
     <li>Dr. L (Professor at Stanford University)</li>
     <li>Dr. S (Professor at MIT)</li>
