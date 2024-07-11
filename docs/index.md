@@ -20,7 +20,7 @@ title: Home
 <section id="time-location">
   <h2>Time and Dates</h2>
   <img src="{{ '/assets/images/time.jpeg' | relative_url }}" alt="Learning Outcome" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">  
-<p>To accommodate different time zones and backgrounds, we offer four camps. The Fundamental A & B camps are identical in content and designed for students with no prior Python coding experience. They are scheduled for students in different time zones. The Advanced A & B camps are for students with prior Python coding experience. These two camps are also identical in content but offered at different times.</p>
+<p>To accommodate different time zones and backgrounds, we offer four camps. </p>
 
   <ul>
    <li><b>Fundamental-A:</b> 9am-12pm EDT, 8/12-8/16/2024</li>
@@ -28,6 +28,8 @@ title: Home
    <li><b>Advanced-A:</b> 9am-12am EDT, 8/12-8/16/2024</li>
    <li><b>Advanced-B:</b> 9pm-12am EDT, 8/12-8/16/2024</li>
   </ul>
+
+<p>The Fundamental A & B camps are identical camps, designed for students with no prior Python coding experience. The Advanced A & B camps are identical, for students with prior Python coding experience.</p>
 
 </section>
 
@@ -41,8 +43,10 @@ title: Home
   <li>Understand the social impact of AI</li>
   <li>Get exposed to open challenges in AI</li>
   <li>Gain confidence in using AI to solve real-world problems</li>
-  <li>Receive the AI Young Practitioner Certificate</li>
+  <li>Receive an "Young AI Practitioner Certificate"</li>
 </ul>
+
+  <img src="{{ '/assets/images/masterCerf.jpeg' | relative_url }}" alt="Learning Outcomes" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
 
 <h3>Advanced A & B</h3>
 <ul>
@@ -52,7 +56,7 @@ title: Home
   <li>Learn AI efficiency and optimization techniques</li>
   <li>Understand the social impact of AI and get exposed to open challenges</li>
   <li>Gain confidence in developing and using AI to solve real-world problems</li>
-  <li>Receive the AI Young Master Certificate</li>
+  <li>Receive an "Young AI Master Certificate"</li>
 </ul>
 </section>
 
@@ -83,7 +87,7 @@ title: Home
   <h2>Registration</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li>Early registration: $600/person (before 8/1/2024)</li>
+    <li>Early registration: $600/person (by 7/31/2024)</li>
     <li>Late registration: $800/person (after 7/31/2024)</li>
   </ul>
   <div class="container">
@@ -93,11 +97,11 @@ title: Home
 
 <section id="contact">
  <h2>Questions?</h2>
-
+  <img src="{{ '/assets/images/contact.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
  <ul>
    <li><a href="{{ "/faq/" | relative_url }}">Visit our FAQ page</a></li>
    <li>Email: <a href="mailto:info@aicampcenter.org">info@aicampcenter.org</a></li>
  </ul>
-  <img src="{{ '/assets/images/contact.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 20%; height: auto; float: left; margin-right: 20px;">
+
 </section>
    

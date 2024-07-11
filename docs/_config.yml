@@ -4,4 +4,5 @@ plugins:
 title: AI Summer Camps for Teens
 description: AI summer camps dedicated to teens' success, health, and societal welfare.
 baseurl: "/aicamp"
+url: "https://aicampcenter.org"
 show_downloads: false
