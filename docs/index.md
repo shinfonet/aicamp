@@ -20,7 +20,7 @@ title: Home
 <section id="time-location">
   <h2>Time and Dates</h2>
   <img src="{{ '/assets/images/time.jpeg' | relative_url }}" alt="Learning Outcome" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">  
-<p>To accommodate different time zones and backgrounds, we offer four camps. The Foundation A & B camps are identical in content and designed for students with no prior Python coding experience. They are scheduled for students in different time zones. The Advanced A & B camps are for students with prior Python coding experience. These two camps are also identical in content but offered at different times.</p>
+<p>To accommodate different time zones and backgrounds, we offer four camps. The Fundamental A & B camps are identical in content and designed for students with no prior Python coding experience. They are scheduled for students in different time zones. The Advanced A & B camps are for students with prior Python coding experience. These two camps are also identical in content but offered at different times.</p>
 
   <ul>
    <li><b>Fundamental-A:</b> 9am-12pm EDT, 8/12-8/16/2024</li>
@@ -34,7 +34,7 @@ title: Home
 <section id="learning-outcomes">
   <h2>Learning Outcomes</h2>
   <img src="{{ '/assets/images/learning.jpeg' | relative_url }}" alt="Learning Outcomes" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
-  <h3>Foundation A & B</h3>
+  <h3>Fundamental A & B</h3>
 <ul>
   <li>Master the basic concepts of AI and deep learning</li>
   <li>Develop AI applications with drag-and-drop frameworks and ChatGPT</li>
