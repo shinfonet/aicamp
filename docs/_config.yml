@@ -4,5 +4,5 @@ plugins:
 title: AI Summer Camps for Teens
 description: AI summer camps dedicated to teens' success, health, and societal welfare.
 baseurl: ""
-url: "https://shinfonet.github.io/aicamp"
+url: "http://localhost:4000"
 show_downloads: false
