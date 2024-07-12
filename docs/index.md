@@ -24,9 +24,9 @@ title: Home
 
   <ul>
    <li><b>Fundamental-A:</b> 9am-12pm EDT, 8/12-8/16/2024</li>
-   <li><b>Fundamental-B:</b> 9pm-12pm EDT, 8/12-8/16/2024</li>
-   <li><b>Advanced-A:</b> 9am-12am EDT, 8/12-8/16/2024</li>
-   <li><b>Advanced-B:</b> 9pm-12am EDT, 8/12-8/16/2024</li>
+   <li><b>Fundamental-B:</b> 8pm-11pm EDT, 8/11-8/15/2024</li>
+   <li><b>Advanced-A:</b> 9am-12pm EDT, 8/12-8/16/2024</li>
+   <li><b>Advanced-B:</b> 8pm-11pm EDT, 8/11-8/15/2024</li>
   </ul>
 
 <p>The Fundamental A & B camps are identical camps, designed for students with no prior Python coding experience. The Advanced A & B camps are identical, for students with prior Python coding experience.</p>
