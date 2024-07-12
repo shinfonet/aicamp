@@ -3,6 +3,6 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: AI Summer Camps for Teens
 description: AI summer camps dedicated to teens' success, health, and societal welfare.
-baseurl: "/aicamp"
-url: "https://shinfonet.github.io"
+baseurl: ""
+url: "https://shinfonet.github.io/aicamp"
 show_downloads: false
