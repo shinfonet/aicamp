@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initial image
     changeBannerImage();
 
-    // Change image every 5 seconds
-    setInterval(changeBannerImage, 5000);
+    // Change image every 4 seconds
+    setInterval(changeBannerImage, 4000);
 });
 
