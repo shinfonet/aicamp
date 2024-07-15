@@ -4,6 +4,7 @@ title: Home
 ---
 
 <section id="registration0">
+  <p><a href="{{ "/cn/" | relative_url }}">Enter Chinese page (进入中文版）</a></p>
   <b>All profits will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health.</b>
   <div class="container">
     <button class="register-button" onclick="window.location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUODdRMzRGWE9KWExQTjhUMEIyMFgwT1c1US4u'">Register Now</button>
@@ -67,7 +68,7 @@ title: Home
 <section id="team">
   <h2>Camp Instructors and Speakers</h2>
   <img src="{{ '/assets/images/team.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
-  <h3>Dr. Xipeng Shen</h3>
+  <h3><a href="https://research.csc.ncsu.edu/picture/xshen5/index.htm">Dr. Xipeng Shen</a></h3>
 <ul>
   <li>Award-winning expert with over 20 years of experience in efficient AI and ML</li>
   <li>Published 100+ research papers</li>
