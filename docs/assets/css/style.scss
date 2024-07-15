@@ -50,3 +50,11 @@
     background-position: center;
     transition: background-image 2s ease-in-out; /* Smooth transition */
 }
+
+footer p {
+    margin: 0;
+    padding: 5px 0;
+    font-size: 0.9em;
+    color: gray;
+    text-align: center;
+}

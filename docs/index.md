@@ -9,15 +9,17 @@ title: Home
    </div>
 </section>
 
-<div id="banner" class="banner"></div>
+<footer>
+ <p>(As a demonstration use of AI, the codebase and artwork of this website were all produced with AI.)</p>
+</footer>
 
+<div id="banner" class="banner"></div>
 <section id="intro">
   <h2>About</h2>
   <img src="{{ '/assets/images/banner.jpeg' | relative_url }}" alt="AICamp" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
-  <p>Welcome to AI Summer Camps for Teens!</p>
-  <p>Our camps are dedicated to educating middle and high school students about AI, helping them build the capability to develop and use AI for good. All profits from the camp will be donated to <b>charity organizations that help reduce adolescents' addictions and improve teens' mental health.</b> The camp is sponsored by the Stanford AI Club, MIT AI Club, and Smart Harmony.</p>
+  <p>Welcome to AI for Good: AI Camps for Teens!</p>
+  <p>Our camps are dedicated to educating middle and high school students about AI, helping them build the capability to develop and use AI for good. All profits from the camps will be donated to <span class="red-text">charity organizations that help reduce adolescents' addictions and improve teens' mental health.</span> The event is sponsored by the Stanford AI Club, MIT AI Club, and Smart Harmony.</p>
   <p>All the camps will be online through Zoom.</p>
-</section>
 
 <section id="time-location">
   <h2>Time and Dates</h2>
@@ -77,12 +79,7 @@ title: Home
   <li>Professor at North Carolina State University</li>
 </ul>
   <h3>AI Club at Stanford University and MIT</h3>
-  <h3>Distinguished Speakers</h3>
-  <ul>
-    <li>Dr. L (Professor at Stanford University)</li>
-    <li>Dr. S (Professor at MIT)</li>
-    <li>Dr. C (Professor at CMU)</li>
-  </ul>
+  <h3>Distinguished Speaker (TBD)</h3>
 </section>
 
 <section id="registration">
@@ -95,6 +92,7 @@ title: Home
   <div class="container">
     <button class="register-button" onclick="location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUODdRMzRGWE9KWExQTjhUMEIyMFgwT1c1US4u'">Register Now</button>
    </div>
+   <p>If you like what the camps offer, tell your friends. We give a $30 gift card for every referral.</p> 
 </section>
 
 <section id="contact">
