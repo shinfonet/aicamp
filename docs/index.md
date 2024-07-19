@@ -80,6 +80,7 @@ title: Home
   <li>Professor at North Carolina State University</li>
 </ul>
   <h3>AI Club at Stanford University and MIT</h3>
+  <p>A group of students from Stanford and MIT will be the ambassadors of the camps, helping campers and answering questions. These ambassadors are top winners of International Science and Engineering Fair (ISEF) awards and other prestigious awards, and they have been focusing on cutting-edge AI technology development.</p>
   <h3>Distinguished Speaker (TBD)</h3>
 </section>
 

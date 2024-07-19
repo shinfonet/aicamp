@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: default_cn
+title: Home-Chinese
 ---
 
 <section id="registration0">
