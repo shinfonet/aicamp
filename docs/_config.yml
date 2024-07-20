@@ -2,9 +2,9 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: "AI for Good: AI Camps for Teens"
-description: AI summer camps dedicated to teens' success, health, and societal welfare.
+description: AI camps dedicated to teens' success, health, and societal welfare.
 title_cn: "AI for Good: 青少年人工智能营地"
-description_cn: 致力于提升青少年成功和身心健康的人工智能夏令营。
+description_cn: 致力于提升青少年成功和身心健康的人工智能的学习营地。
 baseurl: ""
 url: "https://aicampcenter.org"
 show_downloads: false

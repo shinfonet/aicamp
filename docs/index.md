@@ -28,33 +28,30 @@ title: Home
 
 <section id="team">
   <h2>Team</h2>
-  <!--<img src="{{ '/assets/images/team.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">-->
+  <!--<img src="{{ '/assets/images/team.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;"-->
   <h3>Distinguished Speaker</h3>
 
   <img src="{{ '/assets/images/tqchen-new.jpg' | relative_url }}" alt="Prof. Tianqi Chen" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
   <p>Prof. <a href="https://tqchen.com/">Tianqi Chen</a> is an Assistant Professor in the Machine Learning Department and Computer Science Department at Carnegie Mellon University and Chief Technologist of <a href="https://octoml.ai/">OctoML</a>. He is an internationally acclaimed expert in Machine Learning Systems, known for his pivotal roles in the creation of TVM, the most influential automated end-to-end optimizing compiler for Deep Learning.</p>
-  <br>
-  <br>
-  <br>
+  <div class="clearfix"></div>
+  
   <h3>Camp Ambassadors from Stanford University and MIT</h3>
   <p>A group of students from Stanford and MIT will be the ambassadors of the camps, helping campers and answering questions. These ambassadors are top winners of International Science Competitions awards and other prestigious awards, and they have been focusing on cutting-edge AI technology development.</p>
 
-
-
   <h3>Principle Instructor</h3>
   <img src="{{ '/assets/images/xipengshen.png' | relative_url }}" alt="Prof. Xipeng Shen" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
-  Prof. <a href="https://research.csc.ncsu.edu/picture/xshen5/index.htm">Dr. Xipeng Shen</a> is a world-class award-winnning expert with 20+ years of experience in efficient AI and Programming Systems.
+  <p>Prof. <a href="https://research.csc.ncsu.edu/picture/xshen5/index.htm">Dr. Xipeng Shen</a> is a world-class award-winning expert with 20+ years of experience in efficient AI and Programming Systems.</p>
   <ul>
-  <li>Over 100 research publications on world top venues</li>
-  <li>Google Faculty Award Winner</li>
-  <li>ACM Distinguished Scientist</li>
-  <li>Consultant for Intel, Meta, Huawei, Cisco, Alibaba</li>
-  <li>Co-Founder & Chief Technology Officer of CoCoPIE.AI</li>
-  <li>Tenured Full Professor at North Carolina State University</li>
-  <li>Visiting Scientist at MIT and Microsoft Research</li>
+    <li>Over 100 research publications on world top venues</li>
+    <li>Google Faculty Award Winner</li>
+    <li>ACM Distinguished Scientist</li>
+    <li>Consultant for Intel, Meta, Huawei, Cisco, Alibaba</li>
+    <li>Co-Founder & Chief Technology Officer of CoCoPIE.AI</li>
+    <li>Tenured Full Professor at North Carolina State University</li>
+    <li>Visiting Scientist at MIT and Microsoft Research</li>
   </ul>
-
 </section>
+
 
 <section id="time-location">
   <h2>Time and Dates</h2>

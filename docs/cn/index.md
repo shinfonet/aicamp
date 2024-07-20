@@ -32,18 +32,15 @@ title: Home-Chinese
   <h3>特邀演讲嘉宾</h3>
 
   <img src="{{ '/assets/images/tqchen-new.jpg' | relative_url }}" alt="陈天奇教授" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
-  <p><a href="https://tqchen.com/">Tianqi Chen教授</a>是卡内基梅隆大学机器学习系和计算机科学系的助理教授，同时也是<a href="https://octoml.ai/">OctoML</a>的首席技术官。他是国际知名的机器学习系统专家，因在创建 TVM（最具影响力的自动端到端深度学习优化编译器）方面的关键作用而闻名。</p>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+  <p><a href="https://tqchen.com/">Tianqi Chen教授</a>是卡内基梅隆大学机器学习系和计算机科学系的助理教授，同时也是<a href="https://octoml.ai/">OctoML</a>的首席技术官。他是国际著名的机器学习系统专家，在创建<a href="https://tvm.apache.org/">TVM</a>（最具影响力的自动端到端深度学习优化编译器）方面做出了关键的贡献。</p>
+  <div class="clearfix"></div>
+
   <h3>来自斯坦福大学和麻省理工学院的营地大使</h3>
   <p>一群来自斯坦福大学和麻省理工学院的学生将担任夏令营的大使，帮助营员并回答问题。这些大使是国际科学竞赛和其他著名奖项的顶级获奖者，他们一直专注于尖端的人工智能技术开发。</p>
 
   <h3>首席讲师</h3>
   <img src="{{ '/assets/images/xipengshen.png' | relative_url }}" alt="Xipeng Shen教授" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
-  <p><a href="https://research.csc.ncsu.edu/picture/xshen5/index.htm">Xipeng Shen教授</a>是一个拥有20多年高效人工智能和编程系统经验的世界级获奖专家。</p>
+  <p><a href="https://research.csc.ncsu.edu/picture/xshen5/index.htm">Xipeng Shen教授</a>是一个拥有20多年高效人工智能和编程系统研究和教学经验的世界级获奖专家。</p>
   <ul>
     <li>在世界顶级会议和期刊上发表了100多篇研究论文</li>
     <li>谷歌教师奖获得者</li>

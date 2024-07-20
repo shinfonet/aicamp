@@ -58,3 +58,9 @@ footer p {
     color: gray;
     text-align: center;
 }
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
