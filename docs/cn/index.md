@@ -57,7 +57,7 @@ title: Home-Chinese
 
 <section id="time-location">
   <h2>时间和日期</h2>
-  <img src="{{ '/assets/images/time.jpeg' | relative_url }}" alt="Learning Outcome" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">  
+  <img src="{{ '/assets/images/time.jpeg' | relative_url }}" alt="Time and Dates" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">  
   <p>为了适应不同的时区和背景，我们提供四个营地。除了列出的在线课程外，还会有指导性的线下活动（视频、电影等），以趣味的方式拓宽学生的视野。</p>
   <ul>
    <li><b>基础-A：</b> 1pm-4pm 美东时间，2024年8月12日-8月16日</li>
@@ -69,7 +69,7 @@ title: Home-Chinese
 
 <section id="learning-outcome">
   <h2>预期的学习成果</h2>
-  <img src="{{ '/assets/images/outcome.jpeg' | relative_url }}" alt="Learning Outcome" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
+  <img src="{{ '/assets/images/learning.jpeg' | relative_url }}" alt="Learning Outcome" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
   <h3>基础 A & B</h3>
   <ul>
     <li>掌握人工智能和深度学习的基础知识</li>
