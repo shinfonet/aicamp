@@ -5,10 +5,13 @@ title: Home
 
 <section id="registration0">
   <p><a href="{{ "/cn/" | relative_url }}">Enter Chinese page (进入中文版）</a></p>
-  <b>All profits will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health.</b>
-  <div class="container">
+    <b>AI camps proudly brought to you by professors and students from <span style="color: darkred;">Stanford University</span>, <span style="color: darkred;\
+">MIT</span>, <span style="color: darkred;">Carnegie Mellon University</span>, and <span style="color: darkred;">NC State University</span>.</b><br>
+    All profits will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health.
+<div class="container">
     <button class="register-button" onclick="window.location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUODdRMzRGWE9KWExQTjhUMEIyMFgwT1c1US4u'">Register Now</button>
    </div>
+
 </section>
 
 <footer>
@@ -20,8 +23,38 @@ title: Home
   <h2>About</h2>
   <img src="{{ '/assets/images/banner.jpeg' | relative_url }}" alt="AICamp" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
   <p>Welcome to AI for Good: AI Camps for Teens (recommended ages: 12-18)!</p>
-  <p>Our camps are dedicated to educating middle and high school students about AI, helping them build the capability to develop and use AI for good. All profits from the camps will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health. The event is sponsored by the Stanford AI Club, MIT AI Club, and Smart Harmony.</p>
+  <p>Our camps are dedicated to educating middle and high school students about AI, helping them build the capability to develop and use AI for good. All profits from the camps will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health. The camps are sponsored by Smart Harmony, and brought to you by professors and students from <span style="color: darkred;">Stanford University</span>, <span style="color: darkred;">MIT</span>, <span style="color: darkred;">Carnegie Mellon University</span>, and <span style="color: darkred;">NC State University</span>.</p>
   <p>All the camps will be online through Zoom.</p>
+
+<section id="team">
+  <h2>Team</h2>
+  <!--<img src="{{ '/assets/images/team.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">-->
+  <h3>Distinguished Speaker</h3>
+
+  <img src="{{ '/assets/images/tqchen-new.jpg' | relative_url }}" alt="Prof. Tianqi Chen" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
+  <p>Prof. <a href="https://tqchen.com/">Tianqi Chen</a> is an Assistant Professor in the Machine Learning Department and Computer Science Department at Carnegie Mellon University and Chief Technologist of <a href="https://octoml.ai/">OctoML</a>. He is an internationally acclaimed expert in Machine Learning Systems, known for his pivotal roles in the creation of TVM, the most influential automated end-to-end optimizing compiler for Deep Learning.</p>
+  <br>
+  <br>
+  <br>
+  <h3>Camp Ambassadors from Stanford University and MIT</h3>
+  <p>A group of students from Stanford and MIT will be the ambassadors of the camps, helping campers and answering questions. These ambassadors are top winners of International Science Competitions awards and other prestigious awards, and they have been focusing on cutting-edge AI technology development.</p>
+
+
+
+  <h3>Principle Instructor</h3>
+  <img src="{{ '/assets/images/xipengshen.png' | relative_url }}" alt="Prof. Xipeng Shen" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
+  Prof. <a href="https://research.csc.ncsu.edu/picture/xshen5/index.htm">Dr. Xipeng Shen</a> is a world-class award-winnning expert with 20+ years of experience in efficient AI and Programming Systems.
+  <ul>
+  <li>Over 100 research publications on world top venues</li>
+  <li>Google Faculty Award Winner</li>
+  <li>ACM Distinguished Scientist</li>
+  <li>Consultant for Intel, Meta, Huawei, Cisco, Alibaba</li>
+  <li>Co-Founder & Chief Technology Officer of CoCoPIE.AI</li>
+  <li>Tenured Full Professor at North Carolina State University</li>
+  <li>Visiting Scientist at MIT and Microsoft Research</li>
+  </ul>
+
+</section>
 
 <section id="time-location">
   <h2>Time and Dates</h2>
@@ -65,24 +98,6 @@ title: Home
 </ul>
 </section>
 
-<section id="team">
-  <h2>Camp Instructors and Speakers</h2>
-  <img src="{{ '/assets/images/team.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
-  <h3><a href="https://research.csc.ncsu.edu/picture/xshen5/index.htm">Dr. Xipeng Shen</a></h3>
-<ul>
-  <li>Award-winning expert with over 20 years of experience in efficient AI and ML</li>
-  <li>Published 100+ research papers</li>
-  <li>Visiting Scientist at MIT and Microsoft Research</li>
-  <li>Consultant for Intel, Meta, Huawei, Cisco, Alibaba</li>
-  <li>Google Faculty Award Winner</li>
-  <li>ACM Distinguished Scientist</li>
-  <li>Chief Technology Officer and Co-Founder of CoCoPIE.AI</li>
-  <li>Professor at North Carolina State University</li>
-</ul>
-  <h3>AI Club at Stanford University and MIT</h3>
-  <p>A group of students from Stanford and MIT will be the ambassadors of the camps, helping campers and answering questions. These ambassadors are top winners of International Science and Engineering Fair (ISEF) awards and other prestigious awards, and they have been focusing on cutting-edge AI technology development.</p>
-  <h3>Distinguished Speaker (TBD)</h3>
-</section>
 
 <section id="registration">
   <h2>Registration</h2>

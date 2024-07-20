@@ -5,6 +5,7 @@ title: Home-Chinese
 
 <section id="registration0">
   <p><a href="{{ "/" | relative_url }}">Enter English page (进入英文版)</a></p>
+  <b>由<span style="color: darkred">斯坦福大学</span>、<span style="color: darkred">麻省理工学院</span>、<span style="color: darkred">卡内基梅隆大学</span>和<span style="color: darkred">北卡罗来纳州立大学</span>的教授和学生自豪地带来的人工智能学习营地。</b>
   <b>所有利润将捐赠给帮助减少青少年成瘾并改善青少年心理健康的慈善组织。</b>
   <div class="container">
     <button class="register-button" onclick="window.location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUQzRDUzBZUDRCV080UjhQRkNTNDAxUUtGQy4u'">立即注册</button>
@@ -20,8 +21,38 @@ title: Home-Chinese
   <h2>关于</h2>
   <img src="{{ '/assets/images/banner.jpeg' | relative_url }}" alt="AICamp" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
   <p>欢迎来到 AI for Good：青少年人工智能营地（推荐年龄：12-18 岁）！</p>
-  <p>我们的营地致力于教育中学生和高中生关于人工智能的知识，帮助他们建立开发和使用人工智能的能力。营地的所有利润将捐赠给帮助减少青少年成瘾并改善青少年心理健康的慈善组织。该活动由斯坦福大学 AI 俱乐部、麻省理工学院 AI 俱乐部和 Smart Harmony 赞助。</p>
+  <p>我们的营地致力于教育中学生和高中生关于人工智能的知识，帮助他们建立开发和使用人工智能的能力。营地的所有利润将捐赠给帮助减少青少年成瘾并改善青少年心理健康的慈善组织。营地由 <span style="color: darkred;">斯坦福大学</span>、<span style="color: darkred;">麻省理工学院</span>、<span style="color: darkred;">卡内基梅隆大学</span>和<span style="color: darkred;">北卡罗来纳州立大学</span>的教授和学生组织，并得到Smar Harmony的赞助。
+</p>
   <p>所有营地活动将通过 Zoom 在线进行。</p>
+</section>
+
+<section id="team">
+  <h2>团队</h2>
+  <!--<img src="{{ '/assets/images/team.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;"-->
+  <h3>特邀演讲嘉宾</h3>
+
+  <img src="{{ '/assets/images/tqchen-new.jpg' | relative_url }}" alt="陈天奇教授" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
+  <p><a href="https://tqchen.com/">Tianqi Chen教授</a>是卡内基梅隆大学机器学习系和计算机科学系的助理教授，同时也是<a href="https://octoml.ai/">OctoML</a>的首席技术官。他是国际知名的机器学习系统专家，因在创建 TVM（最具影响力的自动端到端深度学习优化编译器）方面的关键作用而闻名。</p>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <h3>来自斯坦福大学和麻省理工学院的营地大使</h3>
+  <p>一群来自斯坦福大学和麻省理工学院的学生将担任夏令营的大使，帮助营员并回答问题。这些大使是国际科学竞赛和其他著名奖项的顶级获奖者，他们一直专注于尖端的人工智能技术开发。</p>
+
+  <h3>首席讲师</h3>
+  <img src="{{ '/assets/images/xipengshen.png' | relative_url }}" alt="Xipeng Shen教授" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
+  <p><a href="https://research.csc.ncsu.edu/picture/xshen5/index.htm">Xipeng Shen教授</a>是一个拥有20多年高效人工智能和编程系统经验的世界级获奖专家。</p>
+  <ul>
+    <li>在世界顶级会议和期刊上发表了100多篇研究论文</li>
+    <li>谷歌教师奖获得者</li>
+    <li>ACM杰出科学家</li>
+    <li>英特尔、Meta、华为、思科、阿里巴巴的顾问</li>
+    <li>CoCoPIE.AI的联合创始人兼首席技术官</li>
+    <li>北卡罗来纳州立大学终身教授</li>
+    <li>麻省理工学院和微软研究院的访问科学家</li>
+  </ul>
 </section>
 
 <section id="time-location">
@@ -62,24 +93,6 @@ title: Home-Chinese
 </ul>
 </section>
 
-<section id="team">
-  <h2>营地讲师和演讲嘉宾</h2>
-  <h3><a href="https://research.csc.ncsu.edu/picture/xshen5/index.htm">Xipeng Shen博士</a></h3>
-    <img src="{{ '/assets/images/team.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
-  <ul>
-    <li>拥有20多年高效AI和机器学习经验的专家</li>
-    <li>荣获美国能源部与国家自然基金会奖</li>
-    <li>发表了100多篇研究论文</li>
-    <li>麻省理工学院和微软研究院的访问科学家</li>
-    <li>英特尔、Meta、华为、思科、阿里巴巴的顾问</li>
-    <li>谷歌教师奖研究获</li>
-    <li>ACM杰出科学家</li>
-    <li>CoCoPIE.AI的首席技术官兼联合创始人</li>
-    <li>北卡罗来纳州立大学终身教授</li>
-  </ul>
-  <h3>斯坦福大学和麻省理工学院 AI 俱乐部</h3>
-  <h3>杰出演讲嘉宾：待定</h3>
-</section>
 
 <section id="registration">
   <h2>注册</h2>
