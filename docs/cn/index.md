@@ -21,7 +21,7 @@ title: Home-Chinese
   <h2>关于</h2>
   <img src="{{ '/assets/images/banner.jpeg' | relative_url }}" alt="AICamp" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
   <p>欢迎来到 AI for Good：青少年人工智能营地（推荐年龄：12-18 岁）！</p>
-  <p>我们的营地致力于教育中学生和高中生关于人工智能的知识，帮助他们建立开发和使用人工智能的能力。营地的所有利润将捐赠给帮助减少青少年成瘾并改善青少年心理健康的慈善组织。营地由 <span style="color: darkred;">斯坦福大学</span>、<span style="color: darkred;">麻省理工学院</span>、<span style="color: darkred;">卡内基梅隆大学</span>和<span style="color: darkred;">北卡罗来纳州立大学</span>的教授和学生组织，并得到Smar Harmony的赞助。
+  <p>我们的营地致力于教育中学生和高中生关于人工智能的知识，帮助他们建立开发和使用人工智能的能力。营地的所有利润将捐赠给帮助减少青少年成瘾并改善青少年心理健康的慈善组织。营地由 <a href="https://www.stanford.edu">斯坦福大学</a>、<a href="https://www.mit.edu">麻省理工学院</a>、<a href="https://www.cmu.edu">卡内基梅隆大学</a>和<a href="https://www.ncsu.edu">北卡罗来纳州立大学</a>的教授和学生组织，并得到Smar Harmony的赞助。
 </p>
   <p>所有营地活动将通过 Zoom 在线进行。</p>
 </section>
@@ -32,7 +32,7 @@ title: Home-Chinese
   <h3>特邀演讲嘉宾</h3>
 
   <img src="{{ '/assets/images/tqchen-new.jpg' | relative_url }}" alt="陈天奇教授" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
-  <p><a href="https://tqchen.com/">Tianqi Chen教授</a>是卡内基梅隆大学机器学习系和计算机科学系的助理教授，同时也是<a href="https://octoml.ai/">OctoML</a>的首席技术官。他是国际著名的机器学习系统专家，在创建<a href="https://tvm.apache.org/">TVM</a>（最具影响力的自动端到端深度学习优化编译器）方面做出了关键的贡献。</p>
+  <p><a href="https://tqchen.com/">Tianqi Chen教授</a>是卡内基梅隆大学<a href="https://www.ml.cmu.edu/">机器学习系</a>和<a href="https://www.cs.cmu.edu/">计算机科学系</a>的教授，同时也是<a href="https://octoml.ai/">OctoML</a>的首席技术官。他是国际著名的机器学习系统专家，在创建<a href="https://tvm.apache.org/">TVM</a>（最具影响力的自动开源端到端深度学习优化编译器）方面做出了关键的贡献。</p>
   <div class="clearfix"></div>
 
   <h3>来自斯坦福大学和麻省理工学院的营地大使</h3>

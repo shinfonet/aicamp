@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: AI Camp for Teens
 ---
 
 <section id="registration0">
@@ -22,8 +22,8 @@ title: Home
 <section id="intro">
   <h2>About</h2>
   <img src="{{ '/assets/images/banner.jpeg' | relative_url }}" alt="AICamp" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
-  <p>Welcome to AI for Good: AI Camps for Teens (recommended ages: 12-18)!</p>
-  <p>Our camps are dedicated to educating middle and high school students about AI, helping them build the capability to develop and use AI for good. All profits from the camps will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health. The camps are sponsored by Smart Harmony, and brought to you by professors and students from <span style="color: darkred;">Stanford University</span>, <span style="color: darkred;">MIT</span>, <span style="color: darkred;">Carnegie Mellon University</span>, and <span style="color: darkred;">NC State University</span>.</p>
+  <p>Welcome to AI for Good: AI Camps for Teens!</p>
+  <p>Our camps are dedicated to educating middle and high school students about AI and machine learning, helping them build the capability to develop and use AI for good. All profits from the camps will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health. The camps are sponsored by Smart Harmony, and brought to you by professors and students from <a href="https://www.stanford.edu">Stanford University</a>, <a href="https://www.mit.edu">MIT</a>, <a href="https://www.cmu.edu">Carnegie Mellon University</a>, and <a href="https://www.ncsu.edu">NC State University</a>.</p>
   <p>All the camps will be online through Zoom.</p>
 
 <section id="team">
@@ -32,11 +32,11 @@ title: Home
   <h3>Distinguished Speaker</h3>
 
   <img src="{{ '/assets/images/tqchen-new.jpg' | relative_url }}" alt="Prof. Tianqi Chen" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
-  <p>Prof. <a href="https://tqchen.com/">Tianqi Chen</a> is an Assistant Professor in the Machine Learning Department and Computer Science Department at Carnegie Mellon University and Chief Technologist of <a href="https://octoml.ai/">OctoML</a>. He is an internationally acclaimed expert in Machine Learning Systems, known for his pivotal roles in the creation of TVM, the most influential automated end-to-end optimizing compiler for Deep Learning.</p>
+  <p>Prof. <a href="https://tqchen.com/">Tianqi Chen</a> is an Assistant Professor in the <a href="https://www.ml.cmu.edu/">Machine Learning Department</a> and <a href="https://www.cs.cmu.edu/">Computer Science Department</a> at <a href="https://www.cmu.edu">Carnegie Mellon University</a> and Chief Technologist of <a href="https://octoml.ai/">OctoML</a>. He is an internationally acclaimed expert in Machine Learning Systems, known for his pivotal roles in the creation of <a href="https://tvm.apache.org/">Apache TVM</a>, the most influential automated end-to-end open-source optimizing compiler for Deep Learning.</p>
   <div class="clearfix"></div>
   
   <h3>Camp Ambassadors from Stanford University and MIT</h3>
-  <p>A group of students from Stanford and MIT will be the ambassadors of the camps, helping campers and answering questions. These ambassadors are top winners of International Science Competitions awards and other prestigious awards, and they have been focusing on cutting-edge AI technology development.</p>
+  <p>A group of students from Stanford Unviersity and MIT will be the ambassadors of the camps, helping campers and answering questions. These ambassadors are top winners of International Science Competitions awards and other prestigious awards, and they have been focusing on cutting-edge AI technology development.</p>
 
   <h3>Principle Instructor</h3>
   <img src="{{ '/assets/images/xipengshen.png' | relative_url }}" alt="Prof. Xipeng Shen" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
