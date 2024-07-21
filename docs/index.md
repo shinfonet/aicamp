@@ -64,7 +64,7 @@ title: AI Camp for Teens
    <li><b>Advanced-B (in Chinese):</b> 8pm-11pm EDT, 8/11-8/15/2024</li>
   </ul>
 
-<p>The Fundamental A & B camps are identical camps, designed for students with no prior Python coding experience. The Advanced A & B camps are identical, for students with prior Python coding experience.</p>
+<p>The Fundamental A & B camps are identical in content but in different languages, designed for students having no prior Python coding experience. The Advanced A & B camps are for students having prior Python coding experience.</p>
 
 </section>
 
