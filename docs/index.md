@@ -58,10 +58,10 @@ title: AI Camp for Teens
   <img src="{{ '/assets/images/time.jpeg' | relative_url }}" alt="Time and Dates" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">  
 <p>To accommodate different time zones and backgrounds, we offer four camps. In addition to the listed online sessions, there will be guided offline activities (videos, movies, etc.) to broaden the students' horizons in a fun way.</p>
   <ul>
-   <li><b>Fundamental-A:</b> 1pm-4pm EDT, 8/12-8/16/2024</li>
-   <li><b>Fundamental-B:</b> 8pm-11pm EDT, 8/11-8/15/2024</li>
-   <li><b>Advanced-A:</b> 1pm-4pm EDT, 8/12-8/16/2024</li>
-   <li><b>Advanced-B:</b> 8pm-11pm EDT, 8/11-8/15/2024</li>
+   <li><b>Fundamental-A (in English):</b> 1pm-4pm EDT, 8/12-8/16/2024</li>
+   <li><b>Fundamental-B (in Chinese):</b> 8pm-11pm EDT, 8/11-8/15/2024</li>
+   <li><b>Advanced-A (in English):</b> 1pm-4pm EDT, 8/12-8/16/2024</li>
+   <li><b>Advanced-B (in Chinese):</b> 8pm-11pm EDT, 8/11-8/15/2024</li>
   </ul>
 
 <p>The Fundamental A & B camps are identical camps, designed for students with no prior Python coding experience. The Advanced A & B camps are identical, for students with prior Python coding experience.</p>
