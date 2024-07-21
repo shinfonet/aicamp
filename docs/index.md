@@ -106,7 +106,7 @@ title: AI Camp for Teens
   <div class="container">
     <button class="register-button" onclick="location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUODdRMzRGWE9KWExQTjhUMEIyMFgwT1c1US4u'">Register Now</button>
    </div>
-   <p>If you like what the camps offer, tell your friends. We give a $20 gift card for every referral.</p> 
+   <p>If you like what the camps offer, tell your friends about it!</p> 
 </section>
 
 <section id="contact">
