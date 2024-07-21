@@ -6,7 +6,7 @@ title: AI Camp for Teens
 <section id="registration0">
   <p><a href="{{ "/cn/" | relative_url }}">Enter Chinese page (进入中文版）</a></p>
     <b>AI camps proudly brought to you by professors and students from <span style="color: darkred;">Stanford University</span>, <span style="color: darkred;\
-">MIT</span>, <span style="color: darkred;">Carnegie Mellon University</span>, and <span style="color: darkred;">NC State University</span>.</b><br>
+">MIT</span>, <span style="color: darkred;">Carnegie Mellon University</span>, and <span style="color: darkred;">North Carolina State University</span>.</b><br>
     All profits will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health.
 <div class="container">
     <button class="register-button" onclick="window.location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUODdRMzRGWE9KWExQTjhUMEIyMFgwT1c1US4u'">Register Now</button>
@@ -100,13 +100,13 @@ title: AI Camp for Teens
   <h2>Registration</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li>Early registration: $600/person (by 7/31/2024)</li>
-    <li>Late registration: $800/person (after 7/31/2024)</li>
+    <li>Early registration: $399/person (by 7/31/2024)</li>
+    <li>Late registration: $499/person (after 7/31/2024)</li>
   </ul>
   <div class="container">
     <button class="register-button" onclick="location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUODdRMzRGWE9KWExQTjhUMEIyMFgwT1c1US4u'">Register Now</button>
    </div>
-   <p>If you like what the camps offer, tell your friends. We give a $30 gift card for every referral.</p> 
+   <p>If you like what the camps offer, tell your friends. We give a $20 gift card for every referral.</p> 
 </section>
 
 <section id="contact">
