@@ -64,3 +64,18 @@ footer p {
   display: table;
   clear: both;
 }
+
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.image-gallery img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.2s; /* Animation */
+}
+.image-gallery img:hover {
+  transform: scale(1.05); /* Zoom + hover effect */
+}
+

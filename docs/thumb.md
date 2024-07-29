@@ -4,12 +4,15 @@ title: Thumb up or down!
 permalink: /thumb/
 ---
 
-<img src="{{ '/assets/images/banner.webp' | relative_url }}" alt="banner" class="banner">
+<img src="{{ '/assets/images/thumb.jpeg' | relative_url }}" alt="banner" class="banner">
 
-# Image classification: Thumb up or down
 <a href="{{ '/tryme' | relative_url }}" class="btn btn-primary">Back to Try Me!</a>
 
+# Image classification: Thumb up or down
+
+
 <div>Use your left hand to give a thumb up or thumb down</div>
+<div>Then, try your right hand. How different are the results? Can you guess why?</div>
 <button type='button' onclick='toggleWebcam()'>Start or Stop</button>
 <video id="webcam" autoplay playsinline width="200" height="200"></video>
 <div id='label-container'></div>
@@ -100,4 +103,5 @@ permalink: /thumb/
         }
     }
 </script>
+
 

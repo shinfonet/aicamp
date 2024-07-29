@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Thumb up or down!
+title: Roch, paper, scissors, shoot!
 permalink: /scissor/
 ---
 
-<img src="{{ '/assets/images/banner.webp' | relative_url }}" alt="FAQ" class="banner">
-
-# Image classification: Scissor, paper, stone
+<img src="{{ '/assets/images/scissor.jpeg' | relative_url }}" alt="FAQ" class="banner">
 <a href="{{ '/tryme' | relative_url }}" class="btn btn-primary">Back to Try Me!</a>
 
-<div>Use your left hand to make a scissor, paper, or stone</div>
+# Image classification: Rock, paper, scissors
+
+
+<div>Use your left hand to make a rock, paper, or scissors</div>
 <div>Try two cases: (i) your face is not in the camera; (ii) your face is in the camera</div>
 <button type='button' onclick='toggleWebcam()'>Start or Stop</button>
 <video id="webcam" autoplay playsinline width="200" height="200"></video>
