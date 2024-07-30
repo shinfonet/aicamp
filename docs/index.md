@@ -38,7 +38,7 @@ title: AI Camp for Teens
   <h3>Camp Ambassadors from Stanford, MIT, and other universities</h3>
   <p>A group of students from Stanford Unviersity, MIT and other universities will be the ambassadors of the camps, helping campers and answering questions. These ambassadors are top winners of International Science Competitions awards and other prestigious awards, and they have been focusing on cutting-edge AI technology development.</p>
   <ul>
-    <li>Elizabeth Carney (CMU alumni)</li>
+    <li>Elizabeth Carney (CMU alumna)</li>
     <li>Tanvi Deshpande (Stanford)</li>
     <li>Teddy Ganea (Stanford)</li>
     <li>Theo Jiang (MIT)</li>
