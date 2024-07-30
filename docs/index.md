@@ -35,9 +35,18 @@ title: AI Camp for Teens
   <p>Prof. <a href="https://tqchen.com/">Tianqi Chen</a> is an Assistant Professor in the <a href="https://www.ml.cmu.edu/">Machine Learning Department</a> and <a href="https://www.cs.cmu.edu/">Computer Science Department</a> at <a href="https://www.cmu.edu">Carnegie Mellon University</a> and Chief Technologist of <a href="https://octoml.ai/">OctoML</a>. He is an internationally acclaimed expert in Machine Learning Systems, known for his pivotal roles in the creation of <a href="https://tvm.apache.org/">Apache TVM</a>, the most influential automated end-to-end open-source optimizing compiler for Deep Learning.</p>
   <div class="clearfix"></div>
   
-  <h3>Camp Ambassadors from Stanford University and MIT</h3>
-  <p>A group of students from Stanford Unviersity and MIT will be the ambassadors of the camps, helping campers and answering questions. These ambassadors are top winners of International Science Competitions awards and other prestigious awards, and they have been focusing on cutting-edge AI technology development.</p>
-
+  <h3>Camp Ambassadors from Stanford, MIT, and other universities</h3>
+  <p>A group of students from Stanford Unviersity, MIT and other universities will be the ambassadors of the camps, helping campers and answering questions. These ambassadors are top winners of International Science Competitions awards and other prestigious awards, and they have been focusing on cutting-edge AI technology development.</p>
+  <ul>
+    <li>Elizabeth Carney (CMU alumni)</li>
+    <li>Tanvi Deshpande (Stanford)</li>
+    <li>Teddy Ganea (Stanford)</li>
+    <li>Theo Jiang (MIT)</li>
+    <li>Daniel Shen (Stanford)</li>
+    <li>Sean Yoon (Stanford)</li>
+    <li>Chengyu Zhang (RPI)</li>
+  </ul>
+  
   <h3>Principle Instructor</h3>
   <img src="{{ '/assets/images/xipengshen.png' | relative_url }}" alt="Prof. Xipeng Shen" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
   <p>Prof. <a href="https://research.csc.ncsu.edu/picture/xshen5/index.htm">Dr. Xipeng Shen</a> is a world-class award-winning expert with 20+ years of experience in efficient AI and Programming Systems.</p>
