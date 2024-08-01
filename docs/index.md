@@ -109,8 +109,8 @@ title: AI Camp for Teens
   <h2>Registration</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li><s>Early registration: $399/person (by 7/31/2024)</s></li>
-    <li>Regular registration: $499/person (after 7/31/2024)</li>
+    <!---<li><s>Early registration: $399/person (by 7/31/2024)</s></li>--->
+    <li>Regular registration: $499/person</li>
     <li>Registration deadline: 8/9/2024</li>
   </ul>
   <div class="container">

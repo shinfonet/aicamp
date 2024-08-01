@@ -105,8 +105,8 @@ title: Home-Chinese
   <h2>注册</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li><s>早期注册：$399/人（截止2024年7月31日</s>）</li>
-    <li>注册：$499/人（2024年7月31日之后）</li>
+    <!---<li><s>早期注册：$399/人</li>--->
+    <li>注册：$499/人</li>
     <li>注册截止：2024年8月9日</li>
   </ul>
   <div class="container">
