@@ -44,7 +44,7 @@ title: AI Camp for Teens
     <li>Theo Jiang (MIT)</li>
     <li>Daniel Shen (Stanford)</li>
     <li>Sean Yoon (Stanford)</li>
-    <li>Chengyu Zhang (RPI)</li>
+    <li>Chengyu (Esther) Zhang (RPI)</li>
   </ul>
   
   <h3>Principle Instructor</h3>

@@ -37,6 +37,16 @@ title: Home-Chinese
 
   <h3>来自斯坦福大学和麻省理工学院的营地大使</h3>
   <p>一群来自斯坦福大学和麻省理工学院的学生将担任夏令营的大使，帮助营员并回答问题。这些大使是国际科学竞赛和其他著名奖项的顶级获奖者，他们一直专注于尖端的人工智能技术开发。</p>
+   <ul>
+    <li>Elizabeth Carney (卡耐基梅隆毕业生)</li>
+    <li>Tanvi Deshpande (斯坦福)</li>
+    <li>Teddy Ganea (斯坦福)</li>
+    <li>Theo Jiang (麻省理工)</li>
+    <li>Daniel Shen (斯坦福)</li>
+    <li>Sean Yoon (斯坦福)</li>
+    <li>Chengyu (Esther) Zhang (伦斯勒理工)</li>
+  </ul>
+
 
   <h3>首席讲师</h3>
   <img src="{{ '/assets/images/xipengshen.png' | relative_url }}" alt="Xipeng Shen教授" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
