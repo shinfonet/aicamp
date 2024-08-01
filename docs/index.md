@@ -109,8 +109,9 @@ title: AI Camp for Teens
   <h2>Registration</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li>Early registration: $399/person (by 7/31/2024)</li>
-    <li>Late registration: $499/person (after 7/31/2024)</li>
+    <li><s>Early registration: $399/person (by 7/31/2024)</s></li>
+    <li>Regular registration: $499/person (after 7/31/2024)</li>
+    <li>Registration deadline: 8/9/2024</li>
   </ul>
   <div class="container">
     <button class="register-button" onclick="location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUODdRMzRGWE9KWExQTjhUMEIyMFgwT1c1US4u'">Register Now</button>

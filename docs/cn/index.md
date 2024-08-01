@@ -95,13 +95,14 @@ title: Home-Chinese
   <h2>注册</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li>早期注册：$399/人（截止2024年7月31日）</li>
-    <li>晚期注册：$499/人（2024年7月31日之后）</li>
+    <li><s>早期注册：$399/人（截止2024年7月31日</s>）</li>
+    <li>注册：$499/人（2024年7月31日之后）</li>
+    <li>注册截止：2024年8月9日</li>
   </ul>
   <div class="container">
     <button class="register-button" onclick="location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUQzRDUzBZUDRCV080UjhQRkNTNDAxUUtGQy4u'">立即注册</button>
    </div>
-   <p>如果你喜欢营地提供的内容，请告诉你的朋友。每推荐一人注册，我们将赠送$20的礼品卡。</p> 
+   <p>如果你喜欢营地提供的内容，请告诉你的朋友。</p> 
 </section>
 
 <section id="contact">
