@@ -40,11 +40,15 @@ title: AI Camp for Teens
   <ul>
     <li>Elizabeth Carney (CMU alumna)</li>
     <li>Tanvi Deshpande (Stanford)</li>
+    <li>Amay Gada (NCSU)</li>
+    <li>Shyamal Gandhi (NCSU)</li>
     <li>Teddy Ganea (Stanford)</li>
     <li>Theo Jiang (MIT)</li>
     <li>Daniel Shen (Stanford)</li>
     <li>Sean Yoon (Stanford)</li>
+    <li>Cheng Zhang (NCSU)</li>
     <li>Chengyu (Esther) Zhang (RPI)</li>
+    <li>Ruifeng Zhang (NCSU)</li>
   </ul>
   
   <h3>Principle Instructor</h3>
