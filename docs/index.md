@@ -63,6 +63,9 @@ title: AI Camp for Teens
     <li>Tenured Full Professor at North Carolina State University</li>
     <li>Visiting Scientist at MIT and Microsoft Research</li>
   </ul>
+
+  <h3>Other Volunteers</h3>
+  <p>The camps also received valuable help from Qizhao Zhang (George Washington University), Alex Shen, and Elizabeth Shen.</p>
 </section>
 
 
