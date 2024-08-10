@@ -20,10 +20,10 @@ permalink: /tryme/
     <div>Cat or dog</div>
     <img src="/assets/images/catdog.jpeg" alt="Cat or dog" style="width:100%;">
   </a>
-  <a href="/scissor/">
+<!-- <a href="/scissor/">
     <div>Rock, paper, scissors, shoot!</div>
     <img src="/assets/images/scissor.jpeg" alt="Rock, paper, scissors" style="width:100%;">
-  </a>
+  </a> -->
   <a href="/hideSeekImage/">
     <div>Hide N Seek by Images</div>
     <img src="/assets/images/hideSeekImage.jpeg" alt="Hide N Seek by Images" style="width:100%;">
