@@ -67,10 +67,10 @@ title: Home-Chinese
   <img src="{{ '/assets/images/time.jpeg' | relative_url }}" alt="Time and Dates" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">  
   <p>为了适应不同的时区和背景，我们提供四个营地。基础-A和B内容一样，授课语言不同，适合没有编程背景的学生；高级-A和B适合已有Python编程经验的学生。除了列出的在线课程外，还会有指导性的线下活动（视频、电影等），以趣味的方式拓宽学生的视野。</p>
   <ul>
-   <li><b>基础-A (英文）：</b> 1pm-4pm 美东时间，2024年8月12日-8月16日</li>
-   <li><b>基础-B（中文）：</b> 8pm-11pm 美东时间，2024年8月11日-8月15日</li>
-   <li><b>高级-A（英文）：</b> 1pm-4pm 美东时间，2024年8月12日-8月16日</li>
-   <li><b>高级-B（中文）：</b> 8pm-11pm 美东时间，2024年8月11日-8月15日</li>
+   <li><b>基础-A (英文）：</b> 1pm-4pm 美东时间，2025年7月21日-7月25日</li>
+   <li><b>基础-B（中文）：</b> 8pm-11pm 美东时间，2025年7月20日-7月24日</li>
+   <li><b>高级-A（英文）：</b> 1pm-4pm 美东时间，2025年7月21日-7月25日</li>
+   <li><b>高级-B（中文）：</b> 8pm-11pm 美东时间，2024年7月20日-7月24日</li>
   </ul>
 </section>
 
