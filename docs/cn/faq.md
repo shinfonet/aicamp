@@ -16,6 +16,6 @@ permalink: /cn/faq/
 我们完全理解有时候计划会发生变化。如果在预定营地开始日期前至少一周提交取消请求，我们将提供全额退款。您只需发送电子邮件至 [info@aicampcenter.org](mailto:info@aicampcenter.org)。我们致力于让这个过程尽可能简单。开始前一周内取消，我们提供50%退款。营地开始后，无退款。
 
 ## 你们的项目是否提供任何经济援助或奖学金？
-我们可能会提供有限的经济援助或奖学金。请在预定营地开始日期前至少三周发送电子邮件至 [info@aicampcenter.org](mailto:info@aicampcenter.org)。我们会基于学生的经济背景以及学生的申表来选择。
+我们可能会提供有限的经济援助或奖学金。对于2025的营地，申请截止在6/15。请提前至少两周发送电子邮件至 [info@aicampcenter.org](mailto:info@aicampcenter.org)。我们会基于学生的经济背景以及学生的申表来选择。
 
 <a href="{{ '/cn/' | relative_url }}" class="btn btn-primary">返回首页</a>

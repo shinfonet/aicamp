@@ -24,7 +24,7 @@ title: Home-Chinese
   <p>欢迎来到 AI for Good：青少年人工智能营地（推荐年龄：12-18 岁）！</p>
   <p>我们的营地致力于教育中学生和高中生关于人工智能的知识，帮助他们建立开发和使用人工智能的能力。营地的所有利润将捐赠给帮助减少青少年成瘾并改善青少年心理健康的慈善组织。营地由 <a href="https://www.stanford.edu">斯坦福大学</a>、<a href="https://www.mit.edu">麻省理工学院</a>、<a href="https://www.cmu.edu">卡内基梅隆大学</a>和<a href="https://www.ncsu.edu">北卡罗来纳州立大学</a>的教授和学生组织，并得到Smar Harmony的赞助。
 </p>
-  <p>所有营地活动将通过 Zoom 在线进行。</p>
+  <p>所有营地活动将通过 Zoom 在线进行(如需要，会提供VPN)。</p>
 </section>
 
 <section id="team">
