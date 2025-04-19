@@ -5,7 +5,7 @@ title: Home-Chinese
 
 <section id="registration0">
   <p><a href="{{ "/" | relative_url }}">Enter English page (进入英文版)</a></p>
-  <p><b><span style="color: darkred"><a href="https://forms.office.com/r/Zu7b6Zf49x">2025营地注册已经开放</a></span></b></p>
+  <p><b><span style="color: darkred">2025营地注册已经<a href="https://forms.office.com/r/Zu7b6Zf49x">开放</a></span></b></p>
   <b>由<span style="color: darkred">斯坦福大学</span>、<span style="color: darkred">麻省理工学院</span>、<span style="color: darkred">卡内基梅隆大学</span>和<span style="color: darkred">北卡罗来纳州立大学</span>的教授和学生自豪地带来的人工智能学习营地。</b>
   <b>所有利润将捐赠给帮助减少青少年成瘾并改善青少年心理健康的慈善组织。</b>
   <div class="container">
@@ -106,7 +106,7 @@ title: Home-Chinese
   <h2>注册</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li><s>早期注册：$399/人 (美东时间2025年7月8日之前)</li>
+    <li><s>早期注册：$399/人 (美东时间2025年6月15日之前)</li>
     <li>注册：$499/人</li>
     <li>注册截止：2025年7月16日 （美东时间）</li>
   </ul>
