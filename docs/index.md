@@ -30,7 +30,7 @@ title: AI Camp for Teens
 <section id="team">
   <h2>Team</h2>
   <!--<img src="{{ '/assets/images/team.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;"-->
-  <h3>Distinguished Speaker (2024; TBD for 2025)</h3>
+  <h3>Distinguished Speaker</h3>
 
   <img src="{{ '/assets/images/tqchen-new.jpg' | relative_url }}" alt="Prof. Tianqi Chen" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
   <p>Prof. <a href="https://tqchen.com/">Tianqi Chen</a> is an Assistant Professor in the <a href="https://www.ml.cmu.edu/">Machine Learning Department</a> and <a href="https://www.cs.cmu.edu/">Computer Science Department</a> at <a href="https://www.cmu.edu">Carnegie Mellon University</a> and Chief Technologist of <a href="https://octoml.ai/">OctoML</a>. He is an internationally acclaimed expert in Machine Learning Systems, known for his pivotal roles in the creation of <a href="https://tvm.apache.org/">Apache TVM</a>, the most influential automated end-to-end open-source optimizing compiler for Deep Learning.</p>
@@ -117,7 +117,7 @@ title: AI Camp for Teens
   <h2>Registration</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li><s>Early registration: $399/person (before 6/15/2025 EDT)</s></li>
+    <li>Early registration: $399/person (before 6/16/2025 EDT)</li>
     <li>Regular registration: $499/person</li>
     <li>Registration deadline: 7/16/2025 EDT</li>
   </ul>

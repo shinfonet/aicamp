@@ -30,7 +30,7 @@ title: Home-Chinese
 <section id="team">
   <h2>团队</h2>
   <!--<img src="{{ '/assets/images/team.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;"-->
-  <h3>特邀演讲嘉宾 (2024; 2025待定)</h3>
+  <h3>特邀演讲嘉宾</h3>
 
   <img src="{{ '/assets/images/tqchen-new.jpg' | relative_url }}" alt="陈天奇教授" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
   <p><a href="https://tqchen.com/">Tianqi Chen教授</a>是卡内基梅隆大学<a href="https://www.ml.cmu.edu/">机器学习系</a>和<a href="https://www.cs.cmu.edu/">计算机科学系</a>的教授，同时也是<a href="https://octoml.ai/">OctoML</a>的首席技术官。他是国际著名的机器学习系统专家，在创建<a href="https://tvm.apache.org/">TVM</a>（最具影响力的自动开源端到端深度学习优化编译器）方面做出了关键的贡献。</p>
@@ -106,7 +106,7 @@ title: Home-Chinese
   <h2>注册</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li><s>早期注册：$399/人 (美东时间2025年6月15日之前)</li>
+    <li>早期注册：$399/人 (美东时间2025年6月16日之前)</li>
     <li>注册：$499/人</li>
     <li>注册截止：2025年7月16日 （美东时间）</li>
   </ul>
