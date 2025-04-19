@@ -5,7 +5,7 @@ title: Home-Chinese
 
 <section id="registration0">
   <p><a href="{{ "/" | relative_url }}">Enter English page (进入英文版)</a></p>
-  <p><span style="color: darkred">2025营地注册已经开放</span></p>
+  <p><b><span style="color: darkred"><a href="https://forms.office.com/r/Zu7b6Zf49x">2025营地注册已经开放</a></span></b></p>
   <b>由<span style="color: darkred">斯坦福大学</span>、<span style="color: darkred">麻省理工学院</span>、<span style="color: darkred">卡内基梅隆大学</span>和<span style="color: darkred">北卡罗来纳州立大学</span>的教授和学生自豪地带来的人工智能学习营地。</b>
   <b>所有利润将捐赠给帮助减少青少年成瘾并改善青少年心理健康的慈善组织。</b>
   <div class="container">
@@ -30,13 +30,13 @@ title: Home-Chinese
 <section id="team">
   <h2>团队</h2>
   <!--<img src="{{ '/assets/images/team.jpeg' | relative_url }}" alt="Team" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;"-->
-  <h3>特邀演讲嘉宾</h3>
+  <h3>特邀演讲嘉宾 (2024; 2025待定)</h3>
 
   <img src="{{ '/assets/images/tqchen-new.jpg' | relative_url }}" alt="陈天奇教授" class="banner" style="width: 30%; height: auto; float: left; margin-right: 20px;">
   <p><a href="https://tqchen.com/">Tianqi Chen教授</a>是卡内基梅隆大学<a href="https://www.ml.cmu.edu/">机器学习系</a>和<a href="https://www.cs.cmu.edu/">计算机科学系</a>的教授，同时也是<a href="https://octoml.ai/">OctoML</a>的首席技术官。他是国际著名的机器学习系统专家，在创建<a href="https://tvm.apache.org/">TVM</a>（最具影响力的自动开源端到端深度学习优化编译器）方面做出了关键的贡献。</p>
   <div class="clearfix"></div>
 
-  <h3>来自斯坦福大学和麻省理工学院的营地大使</h3>
+  <h3>来自斯坦福大学和麻省理工学院的营地大使 （2024；2025待定）</h3>
   <p>一群来自斯坦福大学和麻省理工学院的学生将担任夏令营的大使，帮助营员并回答问题。这些大使是国际科学竞赛和其他著名奖项的顶级获奖者，他们一直专注于尖端的人工智能技术开发。</p>
    <ul>
     <li>Elizabeth Carney (卡耐基梅隆毕业生)</li>
