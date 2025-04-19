@@ -5,10 +5,11 @@ title: Home-Chinese
 
 <section id="registration0">
   <p><a href="{{ "/" | relative_url }}">Enter English page (进入英文版)</a></p>
+  <p><span style="color: darkred">2025营地注册已经开放</span></p>
   <b>由<span style="color: darkred">斯坦福大学</span>、<span style="color: darkred">麻省理工学院</span>、<span style="color: darkred">卡内基梅隆大学</span>和<span style="color: darkred">北卡罗来纳州立大学</span>的教授和学生自豪地带来的人工智能学习营地。</b>
   <b>所有利润将捐赠给帮助减少青少年成瘾并改善青少年心理健康的慈善组织。</b>
   <div class="container">
-    <button class="register-button" onclick="window.location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUQzRDUzBZUDRCV080UjhQRkNTNDAxUUtGQy4u'">立即注册</button>
+    <button class="register-button" onclick="window.location.href='https://forms.office.com/r/Zu7b6Zf49x'">立即注册</button>
    </div>
 </section>
 
@@ -70,7 +71,7 @@ title: Home-Chinese
    <li><b>基础-A (英文）：</b> 1pm-4pm 美东时间，2025年7月21日-7月25日</li>
    <li><b>基础-B（中文）：</b> 8pm-11pm 美东时间，2025年7月20日-7月24日</li>
    <li><b>高级-A（英文）：</b> 1pm-4pm 美东时间，2025年7月21日-7月25日</li>
-   <li><b>高级-B（中文）：</b> 8pm-11pm 美东时间，2024年7月20日-7月24日</li>
+   <li><b>高级-B（中文）：</b> 8pm-11pm 美东时间，2025年7月20日-7月24日</li>
   </ul>
 </section>
 
@@ -105,12 +106,12 @@ title: Home-Chinese
   <h2>注册</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <!---<li><s>早期注册：$399/人</li>--->
+    <li><s>早期注册：$399/人 (美东时间2025年7月8日之前)</li>
     <li>注册：$499/人</li>
-    <li>注册截止：2024年8月9日</li>
+    <li>注册截止：2025年7月16日 （美东时间）</li>
   </ul>
   <div class="container">
-    <button class="register-button" onclick="location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUQzRDUzBZUDRCV080UjhQRkNTNDAxUUtGQy4u'">立即注册</button>
+    <button class="register-button" onclick="location.href='https://forms.office.com/r/Zu7b6Zf49x'">立即注册</button>
    </div>
    <p>如果你喜欢营地提供的内容，请告诉你的朋友。</p> 
 </section>

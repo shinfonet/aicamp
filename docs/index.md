@@ -5,11 +5,12 @@ title: AI Camp for Teens
 
 <section id="registration0">
   <p><a href="{{ "/cn/" | relative_url }}">Enter Chinese page (进入中文版）</a></p>
+  <p><span style="color: darkred;">Registration for 2025 Camps Open Now!</span></p>
     <b>AI camps proudly brought to you by professors and students from <span style="color: darkred;">Stanford University</span>, <span style="color: darkred;\
 ">MIT</span>, <span style="color: darkred;">Carnegie Mellon University</span>, and <span style="color: darkred;">North Carolina State University</span>.</b><br>
     All profits will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health.
 <div class="container">
-    <button class="register-button" onclick="window.location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUODdRMzRGWE9KWExQTjhUMEIyMFgwT1c1US4u'">Register Now</button>
+    <button class="register-button" onclick="window.location.href='https://forms.office.com/r/AadP9CnzZ8'">Register Now</button>
    </div>
 
 </section>
@@ -116,12 +117,12 @@ title: AI Camp for Teens
   <h2>Registration</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <!---<li><s>Early registration: $399/person (by 7/31/2024)</s></li>--->
+    <!---<li><s>Early registration: $399/person (before 7/8/2025 EDT)</s></li>--->
     <li>Regular registration: $499/person</li>
-    <li>Registration deadline: 8/9/2024</li>
+    <li>Registration deadline: 7/16/2025 EDT</li>
   </ul>
   <div class="container">
-    <button class="register-button" onclick="location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=nhONFnNqgEeWj09FKmhFBw52tUtMuANGvjjXhDpxv5tUODdRMzRGWE9KWExQTjhUMEIyMFgwT1c1US4u'">Register Now</button>
+    <button class="register-button" onclick="location.href='https://forms.office.com/r/AadP9CnzZ8'">Register Now</button>
    </div>
    <p>If you like what the camps offer, tell your friends about it!</p> 
 </section>
