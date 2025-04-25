@@ -7,7 +7,7 @@ title: Home-Chinese
   <p><a href="{{ "/" | relative_url }}">Enter English page (进入英文版)</a></p>
   <p><b><span style="color: darkred">2025营地注册已经<a href="https://forms.office.com/r/Zu7b6Zf49x">开放</a></span></b></p>
   <b>由<span style="color: darkred">斯坦福大学</span>、<span style="color: darkred">麻省理工学院</span>、<span style="color: darkred">卡内基梅隆大学</span>和<span style="color: darkred">北卡罗来纳州立大学</span>的教授和学生自豪地带来的人工智能学习营地。</b>
-  <b>所有利润将捐赠给帮助减少青少年成瘾并改善青少年心理健康的慈善组织。</b>
+  <b>所有利润将捐赠给帮助减少青少年成瘾并改善青少年心理健康的慈善组织。在2024年，我们捐赠了$11,550。</b>
   <div class="container">
     <button class="register-button" onclick="window.location.href='https://forms.office.com/r/Zu7b6Zf49x'">立即注册</button>
    </div>

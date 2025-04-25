@@ -8,7 +8,7 @@ title: AI Camp for Teens
   <p><b><span style="color: darkred;">Registration for 2025 Camps <a href="https://forms.office.com/r/AadP9CnzZ8">Open Now!</a></span></b></p>
     <b>AI camps proudly brought to you by professors and students from <span style="color: darkred;">Stanford University</span>, <span style="color: darkred;\
 ">MIT</span>, <span style="color: darkred;">Carnegie Mellon University</span>, and <span style="color: darkred;">North Carolina State University</span>.</b><br>
-    All profits will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health.
+    All profits will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health. In 2024, we were able to donate $11,550. 
 <div class="container">
     <button class="register-button" onclick="window.location.href='https://forms.office.com/r/AadP9CnzZ8'">Register Now</button>
    </div>
