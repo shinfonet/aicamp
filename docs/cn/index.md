@@ -106,9 +106,9 @@ title: Home-Chinese
   <h2>注册</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li>美东时间2025年6月16日之前：$399/人</li>
-    <li>美东时间2025年6月15日之后：$499/人</li>
-    <li>注册截止：2025年7月16日 （美东时间）</li>
+    <li>早鸟注册（美东时间2025年6月16日之前）：$399/人</li>
+    <li>常规注册 （美东时间6/16-7/15/2025）：$499/人</li>
+    <li>延迟注册 （美东时间7/16-7/18/2025）：$599/人</li>
   </ul>
   <div class="container">
     <button class="register-button" onclick="location.href='https://forms.office.com/r/Zu7b6Zf49x'">立即注册</button>
