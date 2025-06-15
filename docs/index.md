@@ -117,9 +117,9 @@ title: AI Camp for Teens
   <h2>Registration</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li>Before 6/16/2025 EDT: $399/person</li>
-    <li>After 6/15/2025 EDT: $499/person</li>
-    <li>Registration deadline: 7/16/2025 EDT</li>
+    <li>Early registration by 6/15/2025 EDT: $399/person</li>
+    <li>Regular registration (6/16-7/15/2025 EDT): $499/person</li>
+    <li>Late registration (7/16-7/18/2025 EDT): $599/person</li>
   </ul>
   <div class="container">
     <button class="register-button" onclick="location.href='https://forms.office.com/r/AadP9CnzZ8'">Register Now</button>
