@@ -106,7 +106,7 @@ title: Home-Chinese
   <h2>注册</h2>
   <!-- <img src="{{ '/assets/images/registration.jpeg' | relative_url }}" alt="Registration" class="banner"> -->
   <ul>
-    <li>早鸟注册（美东时间2025年6月16日之前）：$399/人</li>
+    <li><del>早鸟注册（美东时间2025年6月16日之前）：$399/人</del></li>
     <li>常规注册 （美东时间6/16-7/15/2025）：$499/人</li>
     <li>延迟注册 （美东时间7/16-7/18/2025）：$599/人</li>
   </ul>
