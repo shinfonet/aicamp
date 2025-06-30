@@ -24,7 +24,7 @@ title: AI Camp for Teens
   <h2>About</h2>
   <img src="{{ '/assets/images/banner.jpeg' | relative_url }}" alt="AICamp" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">
   <p>Welcome to AI for Good: AI Camps for Teens!</p>
-  <p>Our camps are dedicated to educating middle and high school students about AI and machine learning, helping them build the capability to develop and use AI for good. All profits from the camps will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health. The camps are sponsored by Smart Harmony, and brought to you by professors and students from <a href="https://www.stanford.edu">Stanford University</a>, <a href="https://www.mit.edu">MIT</a>, <a href="https://www.cmu.edu">Carnegie Mellon University</a>, and <a href="https://www.ncsu.edu">NC State University</a>.</p>
+  <p>Our camps are dedicated to educating middle school, high school, and college students about AI and machine learning, helping them build the capability to develop and use AI for good. All profits from the camps will be donated to charitable organizations that help reduce adolescent addictions and improve teen mental health. The camps are sponsored by Smart Harmony, and brought to you by professors and students from <a href="https://www.stanford.edu">Stanford University</a>, <a href="https://www.mit.edu">MIT</a>, <a href="https://www.cmu.edu">Carnegie Mellon University</a>, and <a href="https://www.ncsu.edu">NC State University</a>.</p>
   <p>All the camps will be online through Zoom.</p>
 
 <section id="team">
