@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Scott Gilliam YouTube Clips"
-permalink: /gilliam-clips/
+title: "Pickleball Clips"
+permalink: /pball/
 sitemap: false   # prevents it from showing in sitemap.xml (if plugin is used)
 ---
 
 # Scott Gilliam YouTube Clips
 
-Below is a list of selected YouTube clips:
+Below is a list of selected YouTube clips of Scott Gilliam:
 
 - [Watch Clip](https://youtube.com/clip/UgkxoP_23sj5YkS-j3Vt4paR9ciKH5MjHMU4?si=HdEgiFq_2ayu1NxA)
 - [Watch Clip](https://youtube.com/clip/UgkxWwPeovhTRZgU6EG4ElDE6UxlimavBRk9?si=Ffk2X3oMXogfF1rx)
@@ -27,3 +27,8 @@ Below is a list of selected YouTube clips:
 - [Watch Clip](https://youtube.com/clip/Ugkx-p-YjgZjSPrNbG5sOJ8XDc0bdZ1LMUEK?si=pUXII3tzZJ-6mAJU)
 - [Watch Clip](https://youtube.com/clip/UgkxOz-bKBxf-nLQUvpoLcop4bO-AtyOh5W0?si=fP0Wj6A8RVqgsWt3)
 - [Watch Clip](https://youtube.com/clip/UgkxqY6cRJPxYq6UXy_TSVYrWAP2FIr0AIiq?si=U2gn-z2U7HGW46LP)
+
+# Other Clips
+
+Below is a list of other clips of other players:
+- [Midcourt drive](https://youtube.com/shorts/AM8O8WDl0rI?si=ZaP34oOeU0x4RGVC)
