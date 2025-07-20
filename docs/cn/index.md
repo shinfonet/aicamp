@@ -39,14 +39,12 @@ title: Home-Chinese
   <h3>来自斯坦福大学和麻省理工学院的营地大使 （2024；2025待定）</h3>
   <p>一群来自斯坦福大学和麻省理工学院的学生将担任夏令营的大使，帮助营员并回答问题。这些大使是国际科学竞赛和其他著名奖项的顶级获奖者，他们一直专注于尖端的人工智能技术开发。</p>
    <ul>
-    <li>Elizabeth Carney (卡耐基梅隆毕业生)</li>
-    <li>Tanvi Deshpande (斯坦福)</li>
-    <li>Teddy Ganea (斯坦福)</li>
+    <li>Jeel Kishore Gala (北卡州立大学)</li>
     <li>Theo Jiang (麻省理工)</li>
     <li>Daniel Shen (斯坦福)</li>
-    <li>Sean Yoon (斯坦福)</li>
-    <li>Chengyu (Esther) Zhang (伦斯勒理工)</li>
-  </ul>
+    <li>Cheng Zhang (北卡州立大学)</li>
+    <li>Chengyu (Esther) Zhang (加州大学圣塔克鲁兹)</li>
+   </ul>
 
 
   <h3>首席讲师</h3>
@@ -63,6 +61,8 @@ title: Home-Chinese
   </ul>
 </section>
 
+  <h3>其他志愿者</he>
+  <p>Sriram Krishnamoorth (谷歌), Qizhao Zhang (乔治华盛顿大学), and Jun Wang (复旦大学校友)</p>
 <section id="time-location">
   <h2>时间和日期</h2>
   <img src="{{ '/assets/images/time.jpeg' | relative_url }}" alt="Time and Dates" class="banner" style="width: 30%; height: auto; float: right; margin-left: 20px;">  
