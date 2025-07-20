@@ -36,20 +36,14 @@ title: AI Camp for Teens
   <p>Prof. <a href="https://tqchen.com/">Tianqi Chen</a> is an Assistant Professor in the <a href="https://www.ml.cmu.edu/">Machine Learning Department</a> and <a href="https://www.cs.cmu.edu/">Computer Science Department</a> at <a href="https://www.cmu.edu">Carnegie Mellon University</a> and Chief Technologist of <a href="https://octoml.ai/">OctoML</a>. He is an internationally acclaimed expert in Machine Learning Systems, known for his pivotal roles in the creation of <a href="https://tvm.apache.org/">Apache TVM</a>, the most influential automated end-to-end open-source optimizing compiler for Deep Learning.</p>
   <div class="clearfix"></div>
   
-  <h3>Camp Ambassadors from Stanford, MIT, and other universities (2024; TBD for 2025)</h3>
+  <h3>Camp Ambassadors from Stanford, MIT, and other universities (2025)</h3>
   <p>A group of students from Stanford Unviersity, MIT and other universities will be the ambassadors of the camps, helping campers and answering questions. These ambassadors are top winners of International Science Competitions awards and other prestigious awards, and they have been focusing on cutting-edge AI technology development.</p>
   <ul>
-    <li>Elizabeth Carney (CMU alumna)</li>
-    <li>Tanvi Deshpande (Stanford)</li>
-    <li>Amay Gada (NCSU)</li>
-    <li>Shyamal Gandhi (NCSU)</li>
-    <li>Teddy Ganea (Stanford)</li>
+    <li>Jeel Kishore Gala (NCSU)</li>
     <li>Theo Jiang (MIT)</li>
     <li>Daniel Shen (Stanford)</li>
-    <li>Sean Yoon (Stanford)</li>
     <li>Cheng Zhang (NCSU)</li>
     <li>Chengyu (Esther) Zhang (RPI)</li>
-    <li>Ruifeng Zhang (NCSU)</li>
   </ul>
   
   <h3>Principle Instructor</h3>
@@ -66,7 +60,7 @@ title: AI Camp for Teens
   </ul>
 
   <h3>Other Volunteers</h3>
-  <p>The camps also received valuable help from Qizhao Zhang (George Washington University), Alex Shen, and Elizabeth Shen.</p>
+  <p>The camps also received valuable help from Sriram Krishnamoorth (Google), Qizhao Zhang (George Washington University), and Jun Wang (Fudan University Alumna).</p>
 </section>
 
 

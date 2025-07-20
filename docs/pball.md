@@ -32,3 +32,4 @@ Below is a list of selected YouTube clips of Scott Gilliam:
 
 Below is a list of other clips of other players:
 - [Midcourt drive](https://youtube.com/shorts/AM8O8WDl0rI?si=ZaP34oOeU0x4RGVC)
+- [Tricky dink to right](https://youtube.com/shorts/t9BHFpfawtc?si=-Xs-mL2C5NeFyNXG)
